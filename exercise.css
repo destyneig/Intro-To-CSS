@@ -1,0 +1,56 @@
+h2 {
+    font-size:large;
+    color: gray;
+    text-decoration: underline;
+}
+
+.desc_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 2em;
+}
+
+#html_elem {
+    color: gray;
+    font-weight:700;
+}
+
+.frameworks {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+}
+
+header p {
+    font-weight: bolder;
+    font-size:36px;
+    color: green;
+    text-shadow: 2px 5px 5px gray; /* first px moves the shadow left/right, second px moves the shadow up/down, thrid px is how clear/blurry the shadow is**/
+    font-family: Roboto;
+
+}
+
+.def {
+    text-indent: 50px;
+}
+
+footer p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: teal;
+    text-align: center;
+}
+
+.keyword {
+    color: red;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:white;
+} 
+
+html {
+    background-color: lightgoldenrodyellow;
+}
